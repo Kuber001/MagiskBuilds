@@ -1,7 +1,7 @@
 {
   "app": {
     "version": "5.5.4",
-    "versionCode": "201810",
+    "versionCode": "90",
     "link": "https://github.com/Kuber001/MagiskBuilds/raw/master/MagiskManager-v5.5.4.apk"
   },
   "magisk": {
