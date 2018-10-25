@@ -1,0 +1,21 @@
+{
+  "app": {
+    "version": "5.5.4",
+    "versionCode": "201810",
+    "link": "https://github.com/Kuber001/MagiskBuilds/raw/master/MagiskManager-v5.5.4.apk"
+  },
+  "magisk": {
+    "version": "1540-20180213",
+    "versionCode": "20180213",
+    "link": "https://github.com/Kuber001/MagiskBuilds/raw/master/Magisk-v15.4(1540)",
+    "note": "https://forum.xda-developers.com/showthread.php?t=3521901",
+    "md5": "ac282e05c3b02b233e9d56e45492s"
+  },
+  "uninstaller": {
+    "link": "https://github.com/Kuber001/MagiskBuilds/raw/master/Magisk-uninstaller-20180719-(v2).zip"
+  },
+  "snet": {
+    "versionCode": "11",
+    "link": "https://github.com/Kuber001/MagiskBuilds/raw/master/snet.apk"
+  }
+}
